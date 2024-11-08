@@ -1,1 +1,2 @@
-# sirmodel
+# Modeling Infectious Epidemics
+
